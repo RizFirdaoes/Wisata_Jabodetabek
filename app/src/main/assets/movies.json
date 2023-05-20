@@ -6,7 +6,67 @@
       "details": [
         {
           "adult": false,
-          "backdrop_path": "",
+          "backdrop_path": "bg1",
+          "genre_ids": [
+            35,
+            10751,
+            10402
+          ],
+          "id": 830784,
+          "original_language": "en",
+          "original_title": "Ancol",
+          "overview": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
+          "popularity": 1710.176,
+          "poster_path": "frame5",
+          "release_date": "2022-10-07",
+          "title": "Ancol",
+          "video": false,
+          "vote_average": 7.8,
+          "vote_count": 122
+        },
+        {
+          "adult": false,
+          "backdrop_path": "bg2",
+          "genre_ids": [
+            35,
+            10751,
+            10402
+          ],
+          "id": 830784,
+          "original_language": "en",
+          "original_title": "Monas",
+          "overview": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
+          "popularity": 1710.176,
+          "poster_path": "frame4",
+          "release_date": "2022-10-07",
+          "title": "Monas",
+          "video": false,
+          "vote_average": 7.8,
+          "vote_count": 122
+        },
+        {
+          "adult": false,
+          "backdrop_path": "bg1",
+          "genre_ids": [
+            35,
+            10751,
+            10402
+          ],
+          "id": 830784,
+          "original_language": "en",
+          "original_title": "Taman Mini",
+          "overview": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
+          "popularity": 1710.176,
+          "poster_path": "frame3",
+          "release_date": "2022-10-07",
+          "title": "Taman Mini",
+          "video": false,
+          "vote_average": 7.8,
+          "vote_count": 122
+        },
+        {
+          "adult": false,
+          "backdrop_path": "anak4",
           "genre_ids": [
             35,
             10751,
@@ -17,7 +77,7 @@
           "original_title": "Lyle, Lyle, Crocodile",
           "overview": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
           "popularity": 1710.176,
-          "poster_path": "anak1",
+          "poster_path": "frame4",
           "release_date": "2022-10-07",
           "title": "Lyle, Lyle, Crocodile",
           "video": false,
@@ -26,7 +86,27 @@
         },
         {
           "adult": false,
-          "backdrop_path": "",
+          "backdrop_path": "anak4",
+          "genre_ids": [
+            35,
+            10751,
+            10402
+          ],
+          "id": 830784,
+          "original_language": "en",
+          "original_title": "Lyle, Lyle, Crocodile",
+          "overview": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
+          "popularity": 1710.176,
+          "poster_path": "frame1",
+          "release_date": "2022-10-07",
+          "title": "Lyle, Lyle, Crocodile",
+          "video": false,
+          "vote_average": 7.8,
+          "vote_count": 122
+        },
+        {
+          "adult": false,
+          "backdrop_path": "bg1",
           "genre_ids": [
             12,
             16,
@@ -39,12 +119,72 @@
           "original_title": "Tadeo Jones 3: La Tabla Esmeralda",
           "overview": "Tad would love for his archeologist colleagues to accept him as one of their own, but he always messes everything up. Tad accidentally destroys a sarcophagus and unleashes an ancient spell endangering the lives of his friends: Mummy, Jeff and Belzoni. With everyone against him and only helped by Sara, he sets off on an adventure that will take him from Mexico to Chicago and from Paris to Egypt, in order to put an end to the curse of the Mummy.",
           "popularity": 862.707,
-          "poster_path": "anak2",
+          "poster_path": "frame2",
           "release_date": "2022-08-24",
           "title": "Tad the Lost Explorer and the Curse of the Mummy",
           "video": false,
           "vote_average": 7.8,
           "vote_count": 128
+        },
+        {
+          "adult": false,
+          "backdrop_path": "bg2",
+          "genre_ids": [
+            35,
+            10751,
+            10402
+          ],
+          "id": 830784,
+          "original_language": "en",
+          "original_title": "Lyle, Lyle, Crocodile",
+          "overview": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
+          "popularity": 1710.176,
+          "poster_path": "frame2hd",
+          "release_date": "2022-10-07",
+          "title": "Lyle, Lyle, Crocodile",
+          "video": false,
+          "vote_average": 7.8,
+          "vote_count": 122
+        },
+        {
+          "adult": false,
+          "backdrop_path": "bg1",
+          "genre_ids": [
+            35,
+            10751,
+            10402
+          ],
+          "id": 830784,
+          "original_language": "en",
+          "original_title": "Lyle, Lyle, Crocodile",
+          "overview": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
+          "popularity": 1710.176,
+          "poster_path": "frame4",
+          "release_date": "2022-10-07",
+          "title": "Lyle, Lyle, Crocodile",
+          "video": false,
+          "vote_average": 7.8,
+          "vote_count": 122
+        },
+        {
+          "adult": false,
+          "backdrop_path": "anak4",
+          "genre_ids": [
+            35,
+            10751,
+            10402
+          ],
+          "id": 830784,
+          "original_language": "en",
+          "original_title": "Lyle, Lyle, Crocodile",
+          "overview": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
+          "popularity": 1710.176,
+          "poster_path": "frame5",
+          "release_date": "2022-10-07",
+          "title": "Lyle, Lyle, Crocodile",
+          "video": false,
+          "vote_average": 7.8,
+          "vote_count": 122
         }
       ]
     },
@@ -65,7 +205,7 @@
           "original_title": "Lyle, Lyle, Crocodile",
           "overview": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
           "popularity": 1710.176,
-          "poster_path": "anak1",
+          "poster_path": "img1",
           "release_date": "2022-10-07",
           "title": "Lyle, Lyle, Crocodile",
           "video": false,
@@ -87,12 +227,72 @@
           "original_title": "Tadeo Jones 3: La Tabla Esmeralda",
           "overview": "Tad would love for his archeologist colleagues to accept him as one of their own, but he always messes everything up. Tad accidentally destroys a sarcophagus and unleashes an ancient spell endangering the lives of his friends: Mummy, Jeff and Belzoni. With everyone against him and only helped by Sara, he sets off on an adventure that will take him from Mexico to Chicago and from Paris to Egypt, in order to put an end to the curse of the Mummy.",
           "popularity": 862.707,
-          "poster_path": "anak2",
+          "poster_path": "img2",
           "release_date": "2022-08-24",
           "title": "Tad the Lost Explorer and the Curse of the Mummy",
           "video": false,
           "vote_average": 7.8,
           "vote_count": 128
+        },
+        {
+          "adult": false,
+          "backdrop_path": "",
+          "genre_ids": [
+            35,
+            10751,
+            10402
+          ],
+          "id": 830784,
+          "original_language": "en",
+          "original_title": "Lyle, Lyle, Crocodile",
+          "overview": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
+          "popularity": 1710.176,
+          "poster_path": "img3",
+          "release_date": "2022-10-07",
+          "title": "Lyle, Lyle, Crocodile",
+          "video": false,
+          "vote_average": 7.8,
+          "vote_count": 122
+        },
+        {
+          "adult": false,
+          "backdrop_path": "",
+          "genre_ids": [
+            35,
+            10751,
+            10402
+          ],
+          "id": 830784,
+          "original_language": "en",
+          "original_title": "Lyle, Lyle, Crocodile",
+          "overview": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
+          "popularity": 1710.176,
+          "poster_path": "img4",
+          "release_date": "2022-10-07",
+          "title": "Lyle, Lyle, Crocodile",
+          "video": false,
+          "vote_average": 7.8,
+          "vote_count": 122
+        },
+        {
+          "adult": false,
+          "backdrop_path": "",
+          "genre_ids": [
+            35,
+            10751,
+            10402
+          ],
+          "id": 830784,
+          "original_language": "en",
+          "original_title": "Lyle, Lyle, Crocodile",
+          "overview": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
+          "popularity": 1710.176,
+          "poster_path": "img5",
+          "release_date": "2022-10-07",
+          "title": "Lyle, Lyle, Crocodile",
+          "video": false,
+          "vote_average": 7.8,
+          "vote_count": 122
         }
       ]
     },
@@ -113,7 +313,7 @@
           "original_title": "Lyle, Lyle, Crocodile",
           "overview": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
           "popularity": 1710.176,
-          "poster_path": "anak1",
+          "poster_path": "img1",
           "release_date": "2022-10-07",
           "title": "Lyle, Lyle, Crocodile",
           "video": false,
@@ -135,12 +335,72 @@
           "original_title": "Tadeo Jones 3: La Tabla Esmeralda",
           "overview": "Tad would love for his archeologist colleagues to accept him as one of their own, but he always messes everything up. Tad accidentally destroys a sarcophagus and unleashes an ancient spell endangering the lives of his friends: Mummy, Jeff and Belzoni. With everyone against him and only helped by Sara, he sets off on an adventure that will take him from Mexico to Chicago and from Paris to Egypt, in order to put an end to the curse of the Mummy.",
           "popularity": 862.707,
-          "poster_path": "anak2",
+          "poster_path": "img2",
           "release_date": "2022-08-24",
           "title": "Tad the Lost Explorer and the Curse of the Mummy",
           "video": false,
           "vote_average": 7.8,
           "vote_count": 128
+        },
+        {
+          "adult": false,
+          "backdrop_path": "",
+          "genre_ids": [
+            35,
+            10751,
+            10402
+          ],
+          "id": 830784,
+          "original_language": "en",
+          "original_title": "Lyle, Lyle, Crocodile",
+          "overview": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
+          "popularity": 1710.176,
+          "poster_path": "img3",
+          "release_date": "2022-10-07",
+          "title": "Lyle, Lyle, Crocodile",
+          "video": false,
+          "vote_average": 7.8,
+          "vote_count": 122
+        },
+        {
+          "adult": false,
+          "backdrop_path": "",
+          "genre_ids": [
+            35,
+            10751,
+            10402
+          ],
+          "id": 830784,
+          "original_language": "en",
+          "original_title": "Lyle, Lyle, Crocodile",
+          "overview": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
+          "popularity": 1710.176,
+          "poster_path": "img4",
+          "release_date": "2022-10-07",
+          "title": "Lyle, Lyle, Crocodile",
+          "video": false,
+          "vote_average": 7.8,
+          "vote_count": 122
+        },
+        {
+          "adult": false,
+          "backdrop_path": "",
+          "genre_ids": [
+            35,
+            10751,
+            10402
+          ],
+          "id": 830784,
+          "original_language": "en",
+          "original_title": "Lyle, Lyle, Crocodile",
+          "overview": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
+          "popularity": 1710.176,
+          "poster_path": "img5",
+          "release_date": "2022-10-07",
+          "title": "Lyle, Lyle, Crocodile",
+          "video": false,
+          "vote_average": 7.8,
+          "vote_count": 122
         }
       ]
     },
@@ -161,7 +421,7 @@
           "original_title": "Lyle, Lyle, Crocodile",
           "overview": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
           "popularity": 1710.176,
-          "poster_path": "anak1",
+          "poster_path": "img1",
           "release_date": "2022-10-07",
           "title": "Lyle, Lyle, Crocodile",
           "video": false,
@@ -183,12 +443,72 @@
           "original_title": "Tadeo Jones 3: La Tabla Esmeralda",
           "overview": "Tad would love for his archeologist colleagues to accept him as one of their own, but he always messes everything up. Tad accidentally destroys a sarcophagus and unleashes an ancient spell endangering the lives of his friends: Mummy, Jeff and Belzoni. With everyone against him and only helped by Sara, he sets off on an adventure that will take him from Mexico to Chicago and from Paris to Egypt, in order to put an end to the curse of the Mummy.",
           "popularity": 862.707,
-          "poster_path": "anak2",
+          "poster_path": "img2",
           "release_date": "2022-08-24",
           "title": "Tad the Lost Explorer and the Curse of the Mummy",
           "video": false,
           "vote_average": 7.8,
           "vote_count": 128
+        },
+        {
+          "adult": false,
+          "backdrop_path": "",
+          "genre_ids": [
+            35,
+            10751,
+            10402
+          ],
+          "id": 830784,
+          "original_language": "en",
+          "original_title": "Lyle, Lyle, Crocodile",
+          "overview": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
+          "popularity": 1710.176,
+          "poster_path": "img3",
+          "release_date": "2022-10-07",
+          "title": "Lyle, Lyle, Crocodile",
+          "video": false,
+          "vote_average": 7.8,
+          "vote_count": 122
+        },
+        {
+          "adult": false,
+          "backdrop_path": "",
+          "genre_ids": [
+            35,
+            10751,
+            10402
+          ],
+          "id": 830784,
+          "original_language": "en",
+          "original_title": "Lyle, Lyle, Crocodile",
+          "overview": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
+          "popularity": 1710.176,
+          "poster_path": "img4",
+          "release_date": "2022-10-07",
+          "title": "Lyle, Lyle, Crocodile",
+          "video": false,
+          "vote_average": 7.8,
+          "vote_count": 122
+        },
+        {
+          "adult": false,
+          "backdrop_path": "",
+          "genre_ids": [
+            35,
+            10751,
+            10402
+          ],
+          "id": 830784,
+          "original_language": "en",
+          "original_title": "Lyle, Lyle, Crocodile",
+          "overview": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
+          "popularity": 1710.176,
+          "poster_path": "img5",
+          "release_date": "2022-10-07",
+          "title": "Lyle, Lyle, Crocodile",
+          "video": false,
+          "vote_average": 7.8,
+          "vote_count": 122
         }
       ]
     },
@@ -209,7 +529,7 @@
           "original_title": "Lyle, Lyle, Crocodile",
           "overview": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
           "popularity": 1710.176,
-          "poster_path": "anak1",
+          "poster_path": "img1",
           "release_date": "2022-10-07",
           "title": "Lyle, Lyle, Crocodile",
           "video": false,
@@ -231,12 +551,72 @@
           "original_title": "Tadeo Jones 3: La Tabla Esmeralda",
           "overview": "Tad would love for his archeologist colleagues to accept him as one of their own, but he always messes everything up. Tad accidentally destroys a sarcophagus and unleashes an ancient spell endangering the lives of his friends: Mummy, Jeff and Belzoni. With everyone against him and only helped by Sara, he sets off on an adventure that will take him from Mexico to Chicago and from Paris to Egypt, in order to put an end to the curse of the Mummy.",
           "popularity": 862.707,
-          "poster_path": "anak2",
+          "poster_path": "img2",
           "release_date": "2022-08-24",
           "title": "Tad the Lost Explorer and the Curse of the Mummy",
           "video": false,
           "vote_average": 7.8,
           "vote_count": 128
+        },
+        {
+          "adult": false,
+          "backdrop_path": "",
+          "genre_ids": [
+            35,
+            10751,
+            10402
+          ],
+          "id": 830784,
+          "original_language": "en",
+          "original_title": "Lyle, Lyle, Crocodile",
+          "overview": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
+          "popularity": 1710.176,
+          "poster_path": "img3",
+          "release_date": "2022-10-07",
+          "title": "Lyle, Lyle, Crocodile",
+          "video": false,
+          "vote_average": 7.8,
+          "vote_count": 122
+        },
+        {
+          "adult": false,
+          "backdrop_path": "",
+          "genre_ids": [
+            35,
+            10751,
+            10402
+          ],
+          "id": 830784,
+          "original_language": "en",
+          "original_title": "Lyle, Lyle, Crocodile",
+          "overview": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
+          "popularity": 1710.176,
+          "poster_path": "img4",
+          "release_date": "2022-10-07",
+          "title": "Lyle, Lyle, Crocodile",
+          "video": false,
+          "vote_average": 7.8,
+          "vote_count": 122
+        },
+        {
+          "adult": false,
+          "backdrop_path": "",
+          "genre_ids": [
+            35,
+            10751,
+            10402
+          ],
+          "id": 830784,
+          "original_language": "en",
+          "original_title": "Lyle, Lyle, Crocodile",
+          "overview": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
+          "popularity": 1710.176,
+          "poster_path": "img5",
+          "release_date": "2022-10-07",
+          "title": "Lyle, Lyle, Crocodile",
+          "video": false,
+          "vote_average": 7.8,
+          "vote_count": 122
         }
       ]
     }

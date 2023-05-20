@@ -69,12 +69,18 @@ class HomeFragment : Fragment() {
          }
     }
 
+    fun getDrawableResourceId(imageName: String): Int {
+        return requireContext().resources.getIdentifier(imageName, "drawable", requireContext().packageName)
+    }
+
+
     fun updateBanner(dataList: DataModel.Result.Detail) {
         txtTitle.text = dataList.title
         txtDescription.text = dataList.overview
+        val resourceId = getDrawableResourceId(dataList.backdrop_path)
+        if (resourceId != 0) {
+            imgBanner.setImageResource(resourceId)
+        }
 
-
-        val url = "https://www.themoviedb.org/t/p/w780" + dataList.backdrop_path
-        Glide.with(this).load(url).into(imgBanner)
     }
 }
