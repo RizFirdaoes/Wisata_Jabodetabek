@@ -13,7 +13,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
+          "address": "jakarta barat",
           "original_title": "Sea World",
           "overview": "Sea World adalah taman hiburan keluarga yang terletak di Ancol, Jakarta Utara, Indonesia. Taman ini menawarkan pengalaman interaktif dan pendidikan yang berhubungan dengan kehidupan bawah laut. Sea World merupakan destinasi populer bagi pengunjung yang ingin menjelajahi keanekaragaman hayati laut tanpa harus melakukan penyelaman.",
           "popularity": 1710.176,
@@ -33,7 +33,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
+          "address": "jakarta barat",
           "original_title": "Museum Moja",
           "overview": "Di dalam museum, terdapat berbagai instalasi interaktif dan hiburan audiovisual yang menggambarkan kehidupan sehari-hari di Jakarta. Pengunjung dapat melihat replika bangunan bersejarah, mempelajari tradisi dan budaya lokal, dan merasakan sensasi kehidupan di Jakarta melalui simulasi virtual dan proyeksi multimedia yang menarik.",
           "popularity": 1710.176,
@@ -53,7 +53,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
+          "address": "jakarta barat",
           "original_title": "Kepulauan Seribu",
           "overview": "Pulau Seribu dikenal sebagai destinasi wisata populer di sekitar Jakarta. Pulau-pulau ini menawarkan pantai-pantai yang indah, air laut yang jernih, dan kehidupan bawah laut yang kaya. Beberapa pulau terkenal di Pulau Seribu antara lain Pulau Pramuka, Pulau Tidung, Pulau Harapan, Pulau Pari, dan Pulau Macan.",
           "popularity": 1710.176,
@@ -66,20 +66,40 @@
         },
         {
           "adult": false,
-          "backdrop_path": "",
+          "backdrop_path": "jaw4_bg",
           "genre_ids": [
             35,
             10751,
             10402
           ],
           "id": 830784,
-          "original_language": "en",
-          "original_title": "Nama Wisata",
-          "overview": "Ini Deskripsi wisata",
+          "address": "jakarta barat",
+          "original_title": "Kebun Binatang Ragunan",
+          "overview": "Ragunan adalah sebuah kompleks taman dan kebun binatang yang terletak di Jakarta Selatan, Indonesia. Taman Ragunan memiliki luas sekitar 140 hektar dan merupakan salah satu tujuan rekreasi populer di Jakarta. Taman ini menawarkan berbagai fasilitas yang mencakup area rekreasi, taman bermain, dan kafe.",
           "popularity": 1710.176,
-          "poster_path": "frame1",
+          "poster_path": "jaw4_kot",
           "release_date": "2022-10-07",
-          "title": "Nama Wisata",
+          "title": "Kebun Binatang Ragunan",
+          "video": false,
+          "vote_average": 7.8,
+          "vote_count": 122
+        },
+        {
+          "adult": false,
+          "backdrop_path": "jaw5_bg",
+          "genre_ids": [
+            35,
+            10751,
+            10402
+          ],
+          "id": 830784,
+          "address": "jakarta barat",
+          "original_title": "Taman Mini Indonesia Indah",
+          "overview": "TMII sering menjadi tujuan wisata utama bagi wisatawan lokal dan internasional, serta menjadi tempat yang populer untuk mengadakan acara budaya, festival, dan pameran. Kompleks ini memberikan kesempatan bagi pengunjung untuk menjelajahi, mempelajari, dan menghargai kekayaan budaya Indonesia dalam satu tempat yang komprehensif dan terpadu.",
+          "popularity": 1710.176,
+          "poster_path": "jaw5_kot",
+          "release_date": "2022-10-07",
+          "title": "Taman Mini Indonesia Indah",
           "video": false,
           "vote_average": 7.8,
           "vote_count": 122
@@ -93,27 +113,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
-          "original_title": "Nama Wisata",
-          "overview": "Ini Deskripsi wisata",
-          "popularity": 1710.176,
-          "poster_path": "frame2",
-          "release_date": "2022-10-07",
-          "title": "Nama Wisata",
-          "video": false,
-          "vote_average": 7.8,
-          "vote_count": 122
-        },
-        {
-          "adult": false,
-          "backdrop_path": "",
-          "genre_ids": [
-            35,
-            10751,
-            10402
-          ],
-          "id": 830784,
-          "original_language": "en",
+           "address": "jakarta barat",
           "original_title": "Nama Wisata",
           "overview": "Ini Deskripsi wisata",
           "popularity": 1710.176,
@@ -133,7 +133,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
+           "address": "jakarta barat",
           "original_title": "Nama Wisata",
           "overview": "Ini Deskripsi wisata",
           "popularity": 1710.176,
@@ -153,7 +153,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
+           "address": "jakarta barat",
           "original_title": "Nama Wisata",
           "overview": "Ini Deskripsi wisata",
           "popularity": 1710.176,
@@ -163,7 +163,7 @@
           "video": false,
           "vote_average": 7.8,
           "vote_count": 122
-        },
+        }
 
       ]
     },
@@ -180,7 +180,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
+           "address": "jakarta barat",
           "original_title": "Nama Wisata",
           "overview": "Ini Deskripsi wisata",
           "popularity": 1710.176,
@@ -200,7 +200,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
+           "address": "jakarta barat",
           "original_title": "Nama Wisata",
           "overview": "Ini Deskripsi wisata",
           "popularity": 1710.176,
@@ -220,7 +220,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
+           "address": "jakarta barat",
           "original_title": "Nama Wisata",
           "overview": "Ini Deskripsi wisata",
           "popularity": 1710.176,
@@ -240,7 +240,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
+           "address": "jakarta barat",
           "original_title": "Nama Wisata",
           "overview": "Ini Deskripsi wisata",
           "popularity": 1710.176,
@@ -260,7 +260,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
+           "address": "jakarta barat",
           "original_title": "Nama Wisata",
           "overview": "Ini Deskripsi wisata",
           "popularity": 1710.176,
@@ -286,7 +286,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
+           "address": "jakarta barat",
           "original_title": "Nama Wisata",
           "overview": "Ini Deskripsi wisata",
           "popularity": 1710.176,
@@ -306,7 +306,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
+           "address": "jakarta barat",
           "original_title": "Nama Wisata",
           "overview": "Ini Deskripsi wisata",
           "popularity": 1710.176,
@@ -326,7 +326,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
+           "address": "jakarta barat",
           "original_title": "Nama Wisata",
           "overview": "Ini Deskripsi wisata",
           "popularity": 1710.176,
@@ -346,7 +346,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
+           "address": "jakarta barat",
           "original_title": "Nama Wisata",
           "overview": "Ini Deskripsi wisata",
           "popularity": 1710.176,
@@ -366,7 +366,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
+           "address": "jakarta barat",
           "original_title": "Nama Wisata",
           "overview": "Ini Deskripsi wisata",
           "popularity": 1710.176,
@@ -392,7 +392,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
+           "address": "jakarta barat",
           "original_title": "Nama Wisata",
           "overview": "Ini Deskripsi wisata",
           "popularity": 1710.176,
@@ -412,7 +412,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
+           "address": "jakarta barat",
           "original_title": "Nama Wisata",
           "overview": "Ini Deskripsi wisata",
           "popularity": 1710.176,
@@ -432,7 +432,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
+           "address": "jakarta barat",
           "original_title": "Nama Wisata",
           "overview": "Ini Deskripsi wisata",
           "popularity": 1710.176,
@@ -452,7 +452,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
+           "address": "jakarta barat",
           "original_title": "Nama Wisata",
           "overview": "Ini Deskripsi wisata",
           "popularity": 1710.176,
@@ -472,7 +472,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
+           "address": "jakarta barat",
           "original_title": "Nama Wisata",
           "overview": "Ini Deskripsi wisata",
           "popularity": 1710.176,
@@ -498,7 +498,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
+           "address": "jakarta barat",
           "original_title": "Nama Wisata",
           "overview": "Ini Deskripsi wisata",
           "popularity": 1710.176,
@@ -518,7 +518,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
+           "address": "jakarta barat",
           "original_title": "Nama Wisata",
           "overview": "Ini Deskripsi wisata",
           "popularity": 1710.176,
@@ -538,7 +538,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
+           "address": "jakarta barat",
           "original_title": "Nama Wisata",
           "overview": "Ini Deskripsi wisata",
           "popularity": 1710.176,
@@ -558,7 +558,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
+           "address": "jakarta barat",
           "original_title": "Nama Wisata",
           "overview": "Ini Deskripsi wisata",
           "popularity": 1710.176,
@@ -578,7 +578,7 @@
             10402
           ],
           "id": 830784,
-          "original_language": "en",
+           "address": "jakarta barat",
           "original_title": "Nama Wisata",
           "overview": "Ini Deskripsi wisata",
           "popularity": 1710.176,
