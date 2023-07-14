@@ -11,7 +11,7 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import okhttp3.Dispatcher
 
-class DetailViewmodel(val repo: TmdbRepo, id: Int) : ViewModel() {
+class  DetailViewmodel(val repo: TmdbRepo, id: Int) : ViewModel() {
 
     init {
         viewModelScope.launch(Dispatchers.IO) {

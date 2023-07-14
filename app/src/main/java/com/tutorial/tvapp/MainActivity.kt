@@ -14,7 +14,7 @@ import com.tutorial.tvapp.fragment.*
 import com.tutorial.tvapp.utils.Common
 import com.tutorial.tvapp.utils.Constants
 
-class MainActivity : FragmentActivity(), View.OnKeyListener {
+class MainActivity : FragmentActivity(), View.OnKeyListener, View.OnClickListener {
 
     lateinit var navBar: BrowseFrameLayout
     lateinit var fragmentContainer: FrameLayout
@@ -48,10 +48,10 @@ class MainActivity : FragmentActivity(), View.OnKeyListener {
         btnMovie.setOnKeyListener(this)
         btnSetting.setOnKeyListener(this)
 
-
-        btnHome.setOnKeyListener(this)
-        btnMovie.setOnKeyListener(this)
-        btnSetting.setOnKeyListener(this)
+        btnSearch.setOnClickListener(this)
+        btnHome.setOnClickListener(this)
+        btnMovie.setOnClickListener(this)
+        btnSetting.setOnClickListener(this)
 
 
         lastSelectedMenu = btnHome
@@ -144,7 +144,7 @@ class MainActivity : FragmentActivity(), View.OnKeyListener {
     }
 
     fun openMenu() {
-       val animSlide : Animation = AnimationUtils.loadAnimation(this, R.anim.slide_in_left)
+        val animSlide: Animation = AnimationUtils.loadAnimation(this, R.anim.slide_in_left)
         navBar.startAnimation(animSlide)
 
         navBar.requestLayout()
@@ -157,5 +157,30 @@ class MainActivity : FragmentActivity(), View.OnKeyListener {
 
         fragmentContainer.requestFocus()
         SIDE_MENU = false
+    }
+
+    override fun onClick(view: View) {
+        lastSelectedMenu.isActivated = false
+        view.isActivated = true
+        lastSelectedMenu = view
+
+        when (view.id) {
+            R.id.btn_home -> {
+                selectedMenu = Constants.MENU_HOME
+                changeFragment(HomeFragment())
+            }
+            R.id.btn_search -> {
+                selectedMenu = Constants.MENU_SEARCH
+                changeFragment(SearchFragment())
+            }
+            R.id.btn_movies -> {
+                selectedMenu = Constants.MENU_MOVIE
+                changeFragment(MovieFragment())
+            }
+            R.id.btn_settings -> {
+                selectedMenu = Constants.MENU_SETTINGS
+                changeFragment(SettingsFragment())
+            }
+        }
     }
 }

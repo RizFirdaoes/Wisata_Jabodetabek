@@ -26,7 +26,7 @@
             android:layout_width="0dp"
             android:layout_height="0dp"
             android:adjustViewBounds="true"
-            android:src="@drawable/ic_language"
+            android:src="@drawable/jaw1_bg"
             app:layout_constraintDimensionRatio="16:9"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent"
@@ -61,8 +61,9 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:fontFamily="sans-serif-black"
-            android:text="Nama Wisata"
+            android:text="Sea World"
             android:textColor="@color/color_white"
+            android:textStyle="bold"
             android:textSize="36sp"
             app:layout_constraintStart_toEndOf="@id/guideline_start"
             app:layout_constraintTop_toBottomOf="@id/guideline_top"
@@ -75,7 +76,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:fontFamily="sans-serif-black"
-            android:text="Kota"
+            android:text="Jakarta"
             android:textColor="@color/color_white"
             android:textSize="13sp"
             app:layout_constraintStart_toEndOf="@id/guideline_start"
@@ -90,8 +91,8 @@
             android:layout_marginTop="12dp"
             android:ellipsize="end"
             android:lineSpacingMultiplier="1.2"
-            android:maxLines="3"
-            android:text="Ini deskripsi wisata"
+            android:maxLines="7"
+            android:text="Sea World adalah taman hiburan keluarga yang terletak di Ancol, Jakarta Utara, Indonesia. Taman ini menawarkan pengalaman interaktif dan pendidikan yang berhubungan dengan kehidupan bawah laut. Sea World merupakan destinasi populer bagi pengunjung yang ingin menjelajahi keanekaragaman hayati laut tanpa harus melakukan penyelaman."
             android:textColor="@color/color_white"
             android:textSize="13sp"
             app:layout_constraintStart_toEndOf="@id/guideline_start"
@@ -99,45 +100,25 @@
             app:layout_constraintWidth_default="percent"
             app:layout_constraintWidth_percent=".42" />
 
-        <TextView
-            android:id="@+id/play"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="20dp"
-            android:background="@drawable/btn_selector"
-            android:drawableLeft="@drawable/ic_play"
-            android:drawablePadding="8dp"
-            android:focusable="true"
-            android:focusableInTouchMode="true"
-            android:focusedByDefault="true"
-            android:nextFocusDown="@id/more_like_this"
-            android:padding="8dp"
-            android:text="Play"
-            android:textColor="@color/color_white"
-            android:textSize="16sp"
-            app:layout_constraintStart_toEndOf="@id/guideline_start"
-            app:layout_constraintTop_toBottomOf="@+id/description"
-            app:layout_constraintWidth_default="percent"
-            app:layout_constraintWidth_percent=".3" />
+
 
         <TextView
             android:id="@+id/more_like_this"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:background="@drawable/btn_selector"
-            android:drawableLeft="@drawable/ic_more"
+            android:drawableLeft="@drawable/ic_map"
             android:drawablePadding="8dp"
             android:focusable="true"
             android:focusableInTouchMode="true"
             android:focusedByDefault="true"
             android:nextFocusDown="@id/add_to_mylist"
             android:padding="8dp"
-            android:text="More Like This"
+            android:text="Jl. Lodan timur No.7, RW.10, Ancol, Kec. Pademangan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14430"
             android:textColor="@color/color_white"
-            android:textSize="16sp"
+            android:textSize="13sp"
             app:layout_constraintStart_toEndOf="@id/guideline_start"
-            app:layout_constraintTop_toBottomOf="@+id/play"
+            app:layout_constraintTop_toBottomOf="@+id/description"
             app:layout_constraintWidth_default="percent"
             app:layout_constraintWidth_percent=".3" />
 
@@ -146,20 +127,77 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:background="@drawable/btn_selector"
-            android:drawableLeft="@drawable/ic_more"
             android:drawablePadding="8dp"
             android:focusable="true"
             android:focusableInTouchMode="true"
             android:focusedByDefault="true"
             android:padding="8dp"
-            android:text="Add to My List"
+            android:text=" "
             android:textColor="@color/color_white"
-            android:textSize="16sp"
+            android:textSize="13sp"
             app:layout_constraintStart_toEndOf="@id/guideline_start"
             app:layout_constraintTop_toBottomOf="@+id/more_like_this"
             app:layout_constraintWidth_default="percent"
             app:layout_constraintWidth_percent=".3" />
+
+<!--        <LinearLayout-->
+<!--            android:layout_marginTop="20dp"-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:orientation="horizontal"-->
+<!--            app:layout_constraintStart_toEndOf="@id/guideline_start"-->
+<!--            app:layout_constraintTop_toBottomOf="@id/add_to_mylist"-->
+<!--            app:layout_constraintWidth_default="percent"-->
+<!--            app:layout_constraintWidth_percent=".3" >-->
+<!--            <ImageView-->
+<!--                android:id="@+id/imageView1"-->
+<!--                android:layout_width="150dp"-->
+<!--                android:layout_height="100dp"-->
+<!--                android:padding="10dp"-->
+<!--                android:src="@drawable/kp1" />-->
+<!--            <ImageView-->
+<!--                android:id="@+id/imageView2"-->
+<!--                android:layout_width="150dp"-->
+<!--                android:layout_height="100dp"-->
+<!--                android:padding="10dp"-->
+<!--                android:src="@drawable/kp2" />-->
+<!--            <ImageView-->
+<!--                android:id="@+id/imageView3"-->
+<!--                android:layout_width="150dp"-->
+<!--                android:layout_height="100dp"-->
+<!--                android:padding="10dp"-->
+<!--                android:src="@drawable/kp3" />-->
+<!--        </LinearLayout>-->
+
+        <TextView
+            android:id="@+id/play"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:drawablePadding="8dp"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:focusedByDefault="true"
+            android:nextFocusDown="@id/more_like_this"
+            android:padding="8dp"
+            android:text=""
+            android:textColor="@color/color_white"
+            android:textSize="16sp"
+            app:layout_constraintStart_toEndOf="@id/guideline_start"
+            app:layout_constraintTop_toBottomOf="@+id/description"
+            app:layout_constraintWidth_default="percent"
+            app:layout_constraintWidth_percent=".3" />
+        <TextView
+            android:id="@+id/show_more"
+            android:nextFocusDown="@id/play"
+            android:textColor="@color/color_white"
+            android:focusable="true"
+            android:clickable="true"
+            android:text=" "
+            android:textSize="13sp"
+            android:padding="1dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
 
         <androidx.fragment.app.FragmentContainerView
             android:id="@+id/cast_fragment"

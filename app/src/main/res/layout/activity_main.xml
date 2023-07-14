@@ -54,11 +54,11 @@
             <TextView
                 android:id="@+id/btn_movies"
                 android:layout_width="match_parent"
-                android:drawableLeft="@drawable/ic_movie"
+                android:drawableLeft="@drawable/ic_category"
                 android:layout_marginLeft="16dp"
                 android:gravity="center_vertical"
                 android:drawablePadding="16dp"
-                android:text="Movies"
+                android:text="Category"
                 android:layout_height="45dp"
                 android:focusable="true"
                 android:background="@drawable/selector_menu"
