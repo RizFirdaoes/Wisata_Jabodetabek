@@ -1,12 +1,12 @@
 # Aplikasi Rekomendasi Wisata Jabodetabek
-Aplikasi ini memberikan rekomendasi wisata menarik di kawasan Jabodetabek secara praktis. Mulai dari wisata 
-Temukan destinasi wisata alam, budaya, dan kuliner yang cocok dengan minat Anda. Berikut tampilan dari aplikasi kami
+![logo](image/logo3.png) 
+Aplikasi ini memberikan rekomendasi wisata menarik di kawasan Jabodetabek secara praktis. Temukan destinasi wisata alam, budaya, dan kuliner yang cocok dengan minat Anda. Berikut tampilan dari aplikasi kami
 
 ## Home Page
-![screenshot](screenshot/ss_login.jpeg) 
+![halaman utama](image/tv_halaman_utama.png) 
 
 ## Seacrh Page
-![screenshot](screenshot/ss_beranda.jpeg) 
+![halaman pencarian](image/tv_halaman_pencarian.png) 
 
 ## Category Page
-![screenshot](screenshot/ss_beranda.jpeg) 
+![halaman kategori](image/tv_halaman_kategori.png) 
